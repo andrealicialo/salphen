@@ -1,4 +1,4 @@
-﻿code,Tiempo,Tratamiento,pH,Amonio,Nitrito,Nitrato
+﻿code,Day,Sample,pH,Ammonium,Nitrite,Nitrate
 KCA100,0,CONTROL,8.8733,1.1962,0.0913,0.1363
 KCA101,0,CONTROL,8.6633,1.2687,0.48,0.1053
 KCA102,0,CONTROL,9.2667,0.9064,0.0993,0.2139
